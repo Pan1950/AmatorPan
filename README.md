@@ -1,1 +1,1 @@
-# AmatorPan
+# AmotorPan
